@@ -17,7 +17,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-<p align="left">Hello! My name is Javlon Artykbaev, and I come from Karakalpakstan. Currently, I am studying at the Nukus Branch of Tashkent University of Information Technologies, where I am delving into web development using Python. I am fascinated by the realm of programming and technology, and I aspire to become a proficient backend developer.<br><br>My journey in programming began with a keen interest in creating software and web applications. Presently, my primary focus lies in developing the backend part of web applications. I am deeply passionate about Python and all the possibilities it offers for building reliable and scalable applications.<br><br>My goal is to become an experienced Python backend developer and contribute to the world of web technologies. I am constantly learning and exploring new technologies to stay updated with the latest trends in development.<br><br>I am eager to connect with the developer community, exchange experiences, and learn together. Let's collaborate on exciting projects and transform new ideas into reality!</p>
+<p align="left">Hello! My name is Javlon Artykbaev, and I come from Karakalpakstan. Currently, I am studying at the Nukus Branch of Tashkent University of Information Technologies, where I am delving into web development using Python. </p>
 
 
 <h3 align="left">🛠 Language and tools</h3>
