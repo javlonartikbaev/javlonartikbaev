@@ -17,7 +17,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-<p align="left">Hello! My name is Javlon Artykbaev, and I come from Karakalpakstan. Currently, I am studying at the Nukus Branch of Tashkent University of Information Technologies, where I am delving into web development using Python. </p>
+<p align="left">Hello! My name is Javlon, and I come from Karakalpakstan. Currently, I am studying at the Nukus Branch of Tashkent University of Information Technologies, where I am delving into web development using Python. </p>
 
 
 <h3 align="left">🛠 Language and tools</h3>
