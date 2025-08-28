@@ -27,6 +27,11 @@ I enjoy building web applications with **Python** and learning how to make code 
 
 ---
 
+### 📊 LeetCode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/artjavlon?ext=heatmap)
+
+---
+
 ### 🌍 Connect with Me
 <p align="left">
   <a href="https://t.me/artjavlon">
