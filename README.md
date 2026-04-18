@@ -14,7 +14,7 @@ I enjoy building web applications with **Python** and learning how to make code 
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left" style="display: flex; gap: 10px; align-items: center;">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
